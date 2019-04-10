@@ -1,4 +1,2 @@
- nihao
-nihao
-nihao
-nihao
+Git is a distributed version control system.
+Git is free software.
